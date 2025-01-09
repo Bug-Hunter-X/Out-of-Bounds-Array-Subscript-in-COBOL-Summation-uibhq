@@ -1,0 +1,1 @@
+This repository contains a COBOL program with an out-of-bounds array subscript error and its corrected version.  The original code attempts to calculate the sum of numbers from 1 to 100 using an array but without properly declaring the size of the array to handle the subscript. The corrected version demonstrates proper array handling for such cases.
